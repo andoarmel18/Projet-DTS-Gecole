@@ -1,0 +1,14 @@
+<script src="../gestion/js/jquery-3.2.1.min.js"></script>
+<script src="../gestion/styles/bootstrap-4.1.2/popper.js"></script>
+<script src="../gestion/styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="../gestion/plugins/greensock/TweenMax.min.js"></script>
+<script src="../gestion/plugins/greensock/TimelineMax.min.js"></script>
+<script src="../gestion/plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="../gestion/plugins/greensock/animation.gsap.min.js"></script>
+<script src="../gestion/plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="../gestion/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="../gestion/plugins/easing/easing.js"></script>
+<script src="../gestion/plugins/progressbar/progressbar.min.js"></script>
+<script src="../gestion/plugins/parallax-js-master/parallax.min.js"></script>
+<script src="../gestion/js/custom.js"></script>
+<script src="anim.js"></script>
